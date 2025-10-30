@@ -24,7 +24,7 @@ export default function (props) {
             </Head>
             <Header url={url}/>
             <Content>
-                {children}
+                { children }
             </Content>
             <Footer/>
         </>
